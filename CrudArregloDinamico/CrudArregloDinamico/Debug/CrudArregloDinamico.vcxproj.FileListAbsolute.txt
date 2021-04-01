@@ -1,0 +1,3 @@
+C:\Users\Computer\Desktop\Entorno Visual\CrudArregloDinamico\CrudArregloDinamico\Debug\CrudArregloDinamico.vcxprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Entorno Visual\CrudArregloDinamico\CrudArregloDinamico\Debug\CrudArregloDinamico.MyForm.resources
+C:\Users\Computer\Desktop\Entorno Visual\CrudArregloDinamico\CrudArregloDinamico\Debug\CrudArregloDinamico.vcxproj.GenerateResource.cache

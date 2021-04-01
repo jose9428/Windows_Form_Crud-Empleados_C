@@ -1,0 +1,2 @@
+C:\Users\Computer\Desktop\Nueva carpeta (2)\CrudArregloDinamico\CrudArregloDinamico\x64\Debug\CrudArregloDinamico.MyForm.resources
+C:\Users\Computer\Desktop\Nueva carpeta (2)\CrudArregloDinamico\CrudArregloDinamico\x64\Debug\CrudArregloDinamico.vcxproj.GenerateResource.cache
